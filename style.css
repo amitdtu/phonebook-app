@@ -1,0 +1,18 @@
+.width{
+    width: 600px;
+    margin: auto;
+}
+
+header{
+    background-color: #02b402;
+    padding: 20px 50px;
+    color: floralwhite;
+}
+
+.error{
+    color: floralwhite;
+    background-color: #dc3545;
+    display: block;
+    margin: 10px 150px;
+    border-radius: 5px;
+}
